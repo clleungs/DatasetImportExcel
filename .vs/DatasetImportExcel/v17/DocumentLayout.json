@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\datasetimportexcel_access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|solutionrelative:datasetimportexcel_access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|f:\\prog-c\\utilities\\dataset\\datasetimportexcel\\datasetimportexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|solutionrelative:datasetimportexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\datasetimportexcel_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|solutionrelative:datasetimportexcel_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\datasetimportexcel_misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A5066F-7F1A-4533-87FB-9781CB8C6810}|DatasetImportExcel.csproj|solutionrelative:datasetimportexcel_misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 557,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatasetImportExcel_class.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel_class.cs",
+              "RelativeDocumentMoniker": "DatasetImportExcel_class.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel_class.cs",
+              "RelativeToolTip": "DatasetImportExcel_class.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:09:22.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatasetImportExcel_access.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel_access.cs",
+              "RelativeDocumentMoniker": "DatasetImportExcel_access.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel_access.cs",
+              "RelativeToolTip": "DatasetImportExcel_access.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAhwKcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:30:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatasetImportExcel_misc.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel_misc.cs",
+              "RelativeDocumentMoniker": "DatasetImportExcel_misc.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel_misc.cs",
+              "RelativeToolTip": "DatasetImportExcel_misc.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:30:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatasetImportExcel.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel.cs",
+              "RelativeDocumentMoniker": "DatasetImportExcel.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\Dataset\\DatasetImportExcel\\DatasetImportExcel.cs",
+              "RelativeToolTip": "DatasetImportExcel.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAwwPkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:28:28.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

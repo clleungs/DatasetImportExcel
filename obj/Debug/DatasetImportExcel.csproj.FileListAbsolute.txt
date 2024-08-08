@@ -1,0 +1,7 @@
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\bin\Debug\DatasetImportExcel.exe
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\bin\Debug\DatasetImportExcel.pdb
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\bin\Debug\DatasetImportExcel.exe.config
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\obj\Debug\DatasetImportExcel.csproj.AssemblyReference.cache
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\obj\Debug\DatasetImportExcel.csproj.CoreCompileInputs.cache
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\obj\Debug\DatasetImportExcel.exe
+F:\prog-c\Utilities\Dataset\DatasetImportExcel\obj\Debug\DatasetImportExcel.pdb
